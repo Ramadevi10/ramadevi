@@ -1,0 +1,26 @@
+html{
+    height: 100%;
+}
+h1{
+    color: blue ;
+    background-color: chartreuse;
+    border: 2px double red;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 30px;
+    margin-right: 20px;
+    padding: 10px;
+}
+body{
+    background-image: url(download.jpg);
+    background-size: 100% 100%;
+}
+p{
+    color: white;
+    background-color: rgb(204, 50, 127);
+    border: 1px solid rgb(0, 330, 255);
+    border-radius: 4px;
+    padding: 50px 20px;
+    width: 30%;
+    height: 200px;
+}
